@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Charlie
-
+# 👋 Hi, I'm Charlie Chinchay
 <p align="center">
-💻 Junior Web Developer  
+ 💻 Junior Web Developer
 🚀 Passionate about building modern web applications
 </p>
 
