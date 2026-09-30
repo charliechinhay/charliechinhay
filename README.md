@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Charlie Chinchay
 
 <p align="center">
-💻 Junior Web Developer • AI Coding & Automation 🤖
+💻 Web Developer • AI Coding & Automation 🤖
 <br>
 🚀 Passionate about building modern web applications and AI-powered workflows
 </p>
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a Junior Web Developer passionate about creating modern, scalable, and user-friendly web applications.
+I'm a Web Developer passionate about creating modern, scalable, and user-friendly web applications.
 
 I'm currently expanding my skills through a **Master in AI Coding & AI Automation**, where I'm learning how to integrate Artificial Intelligence into software development and automate business workflows using **n8n**.
 
