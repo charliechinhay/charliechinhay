@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Charlie Chinchay
 
 <p align="center">
-💻 Web Developer • AI Coding & Automation 🤖
+💻 Web Developer • AI & Workflow Automation 🤖
 <br>
 🚀 Passionate about building modern web applications and AI-powered workflows
 </p>
